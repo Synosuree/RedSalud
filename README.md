@@ -25,26 +25,26 @@ Incluye:
 ---
 
 ## 🗂️ Estructura del Proyecto
-  proyecto/
-  ├── back-end/
-  │ ├── manage.py
-  │ ├── requirements.txt
-  │ ├── Apps/
-  │ ├── forms/ # App para formularios médicos
-  │ ├── tasks/ # App para tareas
-  │ ├── user/ # App para gestión de usuarios
-  │ ├── email_service/ # App para notificaciones por correo
-  │ └── misitio/ # Configuración principal del sitio Django
-  ├── front-end/
-  │ ├── src/
-  │ ├── public/
-  │ ├── package.json
-  │ ├── vite.config.js
-  │ └── README.md
-  └── Documentacion/
-  ├── Manual sistema.docx
-  ├── Plan de Pruebas para RedSalud.docx
-  └── Documentación de usuario.pdf
+    proyecto/
+    ├── back-end/
+    │ ├── manage.py
+    │ ├── requirements.txt
+    │ ├── Apps/
+    │ ├── forms/ # App para formularios médicos
+    │ ├── tasks/ # App para tareas
+    │ ├── user/ # App para gestión de usuarios
+    │ ├── email_service/ # App para notificaciones por correo
+    │ └── misitio/ # Configuración principal del sitio Django
+    ├── front-end/
+    │ ├── src/
+    │ ├── public/
+    │ ├── package.json
+    │ ├── vite.config.js
+    │ └── README.md
+    └── Documentacion/
+    ├── Manual sistema.docx
+    ├── Plan de Pruebas para RedSalud.docx
+    └── Documentación de usuario.pdf
 
 
 ---
