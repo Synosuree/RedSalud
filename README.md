@@ -86,8 +86,13 @@ Incluye:
     npm run dev
 
 ### 📄 Documentación
-   # Manual de usuario
-   # Plan de pruebas
+     En esta carpeta encontrarás toda la documentación relacionada con el sistema:
+    
+    - 📘 [Manual del Sistema](./Documentacion/Manual%20sistema.docx) — Guía técnica y funcional del sistema.
+    - ✅ [Plan de Pruebas para RedSalud](./Documentacion/Plan%20de%20Pruebas%20para%20RedSalud.docx) — Casos de prueba y resultados esperados.
+    - 👤 [Documentación de Usuario](./Documentacion/Documentación%20de%20usuario.pdf) — Manual paso a paso para el usuario final.
+    
+    > 📂 Los archivos están ubicados en la carpeta **`/Documentacion/`** del repositorio.
 
  👥 Autores
   - Diego Robles 
