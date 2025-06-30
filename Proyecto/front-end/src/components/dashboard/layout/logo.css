@@ -1,0 +1,64 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1;
+    width: auto !important;
+}
+
+
+@media (min-width: 1200px){
+    .logo{
+        width: 400px;
+    }
+}
+
+.logo img{
+    max-height: 50px;
+    margin-right: 6px;
+    margin-top: 23px;
+}
+
+/* .logo span{
+    font-size: 25px;
+    align-items: center;
+    font-weight: 700;
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
+
+.logo span:hover{
+    color: #b4dd51;
+}
+
+.logo i{
+ margin-left: 24px !important;
+ font-size: 24px;
+ cursor: pointer;
+}
+
+.logo a{
+    text-decoration: none;
+}
+.bi{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding-left: 30px;
+    padding: 30px;
+    
+}
+
+@media(max-width:768px){
+    .logo img{
+        display: none;
+    }
+    .logo span{
+        display: none;
+    }
+    .logo a{
+        display: none;
+    }
+}
